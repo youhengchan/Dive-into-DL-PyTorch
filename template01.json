@@ -1,0 +1,25 @@
+{
+  "name": "Alpaca3",
+  "logoURI": "https://i.postimg.cc/KjwHBtpL/icon.jpg",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 3,
+      "address": "0xa3fb6db10b15f1aeb6eb2b638f575fffb19e428f",
+      "name": "Alpacas.life.test3",
+      "symbol": "Alpaca3",
+      "decimals": 8,
+      "logoURI": "https://i.postimg.cc/KjwHBtpL/icon.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
